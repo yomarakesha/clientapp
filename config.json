@@ -1,0 +1,9 @@
+{
+  "cameras": [],
+  "layout": 4,
+  "theme": "dark",
+  "language": "ru",
+  "fps_limit": 15,
+  "auto_reconnect": true,
+  "reconnect_interval": 5
+}
